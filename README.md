@@ -16,26 +16,27 @@ The dashboard provides insights into impressions, clicks, engagement, conversion
 
 ## 📈 Dashboard Features
 
-- Impressions and clicks analysis
-- CTR, engagement rate, and conversion rate
-- Purchase and conversion analysis
+- KPI tracking for impressions, clicks, shares, comments, purchases, and engagements
+- Click-through rate (CTR) and engagement rate analysis
+- Conversion rate and purchase rate analysis
 - Campaign performance analysis
-- Facebook and Instagram performance
-- Audience analysis by gender and age
-- Geographic performance analysis
-- Weekly and hourly performance trends
+- Audience demographic analysis by gender and age
+- Geographic performance analysis by country
+- Weekly and hourly impression trend analysis
 - Ad type performance comparison
-- Interactive filters and slicers
+- Interactive filters and dynamic measures
 
 ## 🔍 Key Analysis
 
 - Overall advertising performance
-- Campaign-level performance
-- Audience demographic analysis
-- Geographic analysis
-- Ad type comparison
-- Engagement and conversion analysis
-- Identification of high-performing campaigns and audiences
+- Impressions and clicks analysis
+- CTR, engagement rate, and conversion rate analysis
+- Purchase and conversion performance
+- Campaign performance analysis
+- Identification of high-performing campaigns, audience segments, and ad types to evaluate advertising effectiveness
+- Performance comparison across Facebook and Instagram
+- Analysis of advertising trends over time
+- Evaluation of campaign budget and spending efficiency
 
 ## 🖼️ Dashboard Preview
 
@@ -51,8 +52,11 @@ The dashboard provides insights into impressions, clicks, engagement, conversion
 - Power BI Dashboard Development
 - Power Query
 - DAX
+- Data Cleaning & Transformation
 - Data Modeling
 - KPI Development
 - Data Visualization
+- Campaign Performance Analysis
+- Audience Analysis
 - Business Analysis
-- Performance Analysis
+- Data-Driven Insights
